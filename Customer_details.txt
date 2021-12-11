@@ -1,0 +1,90 @@
+name:eswar
+email id:eswar@gmail.com
+Date of Birth:31-07-1999
+phone number:120203754757602
+Account number:120203754757602
+Auto generated password:eswa7-1999
+balance:500
+LastLogin:09/12/21, 9
+
+name:maturi
+email id:maturi@gmail.com
+Date of Birth:20-10-1999
+phone number:20206224011027
+Account number:20206224011027
+Auto generated password:matu0-1990
+balance:0
+LastLogin:2/11/21 10
+
+name:saimaturi
+email id:saimaturi@gmail.com
+Date of Birth:30-09-1990
+phone number:120203168187525
+Account number:120203168187525
+Auto generated password:saim9-1990
+balance:500
+LastLogin:2/11/21 9
+
+name:sampath
+email id:sampath@gmail.com
+Date of Birth:25-06-1998
+phone number:120200522733801
+Account number:120200522733801
+Auto generated password:samp6-1998
+balance:400
+LastLogin:6/12/21 10
+
+name:testuser
+email id:testuser@gmail.com
+Date of Birth:10-10-1990
+phone number:120206732027663
+Account number:120206732027663
+Auto generated password:test0-1990
+balance:0
+LastLogin:2/11/21 9
+
+name:dimpu
+email id:dimpu@gmail.com
+Date of Birth:18-10-1999
+phone number:120200001542507
+Account number:120200001542507
+Auto generated password:dimp0-1999
+balance:0
+LastLogin:2/11/21 9
+
+name:vamshi
+email id:vamshi@gmail.com
+Date of Birth:02-10-1993
+phone number:20208536016827
+Account number:20208536016827
+Auto generated password:vams0-1993
+balance:0
+LastLogin:15/11/21 4
+
+name:vinod
+email id:vinod@gmail.com
+Date of Birth:10-10-1999
+phone number:120205177164710
+Account number:120205177164710
+Auto generated password:vino0-1999
+balance:0
+LastLogin:2/11/21 9
+
+name:vivek
+email id:vivek@gmail.com
+Date of Birth:30-10-1990
+phone number:120205400231687
+Account number:120205400231687
+Auto generated password:vive0-1990
+balance:800
+LastLogin:7/11/21 7
+
+name:sampath
+email id:jayasampath111@gmail.com
+Date of Birth:24-08-1999
+phone number:120207555183513
+Account number:120207555183513
+Auto generated password:samp8-1999
+balance:1500
+LastLogin:09-12-2021 09
+

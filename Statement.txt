@@ -1,0 +1,259 @@
+userEmail=prajwal@gmail.com
+date=7/11/21 7:11 PM
+description=Self bank deposit
+credited=500
+debited=null
+balance=1000
+
+userEmail=madhav@gmail.com
+date=7/11/21 7:22 PM
+description=self bank deposit
+credited=200
+debited=null
+balance=200
+
+userEmail=srinu@gmail.com
+date=7/11/21 7:23 PM
+description=self bank deposit
+credited=600
+debited=null
+balance=1400
+
+userEmail=srinu@gmail.com
+date=7/11/21 7:24 PM
+description=self bank withdrawl
+credited=null
+debited=100
+balance=1300
+
+userEmail=srinu@gmail.com
+date=7/11/21 8:19 PM
+description=self bank deposit
+credited=200
+debited=null
+balance=1500
+
+userEmail=srinu@gmail.com
+date=7/11/21 8:20 PM
+description=debited to accountno:120206425646510
+credited=null
+debited=500
+balance=1000
+
+userEmail=prajwal@gmail.com
+date=7/11/21 8:20 PM
+description=credited from accountno:120204233455888
+credited=500
+debited=null
+balance=1700
+
+userEmail=koushik@gmail.com
+date=8/11/21 10:26 AM
+description=self bank deposit
+credited=400
+debited=null
+balance=400
+
+userEmail=venki@gmail.com
+date=8/11/21 3:23 PM
+description=self bank deposit
+credited=500
+debited=null
+balance=500
+
+userEmail=venki@gmail.com
+date=8/11/21 3:24 PM
+description=debited to accountno:120200522733801
+credited=null
+debited=100
+balance=400
+
+userEmail=sampath@gmail.com
+date=8/11/21 3:24 PM
+description=credited from accountno:120208758561374
+credited=100
+debited=null
+balance=300
+
+userEmail=kavuri@gmail.com
+date=14/11/21 7:39 PM
+description=self bank deposit
+credited=300
+debited=null
+balance=300
+
+userEmail=kavuri@gmail.com
+date=14/11/21 7:40 PM
+description=debited to accountno:120203754757602
+credited=null
+debited=100
+balance=200
+
+userEmail=eswar@gmail.com
+date=14/11/21 7:40 PM
+description=credited from accountno:120203578110807
+credited=100
+debited=null
+balance=100
+
+userEmail=jaswanth@gmail.com
+date=15/11/21 1:23 PM
+description=self bank deposit
+credited=500
+debited=null
+balance=500
+
+userEmail=jaswanth@gmail.com
+date=15/11/21 1:23 PM
+description=self bank withdrawl
+credited=null
+debited=200
+balance=300
+
+userEmail=jaswanth@gmail.com
+date=15/11/21 1:23 PM
+description=debited to accountno:120200570180808
+credited=null
+debited=100
+balance=200
+
+userEmail=koushik@gmail.com
+date=15/11/21 1:23 PM
+description=credited from accountno:120207240455715
+credited=100
+debited=null
+balance=500
+
+userEmail=harsha@gmail.com
+date=15/11/21 4:10 PM
+description=self bank deposit
+credited=700
+debited=null
+balance=700
+
+userEmail=harsha@gmail.com
+date=15/11/21 4:11 PM
+description=debited to accountno:120207240455715
+credited=null
+debited=200
+balance=500
+
+userEmail=jaswanth@gmail.com
+date=15/11/21 4:11 PM
+description=credited from accountno:120205216041854
+credited=200
+debited=null
+balance=400
+
+userEmail=jayanth@gmail.com
+date=15/11/21 5:12 PM
+description=self bank deposit
+credited=500
+debited=null
+balance=500
+
+userEmail=jayanth@gmail.com
+date=15/11/21 5:12 PM
+description=self bank withdrawl
+credited=null
+debited=100
+balance=400
+
+userEmail=yaswantha@gmail.com
+date=15/11/21 5:15 PM
+description=self bank deposit
+credited=200
+debited=null
+balance=200
+
+userEmail=yaswantha@gmail.com
+date=15/11/21 5:16 PM
+description=debited to accountno:120207212717838
+credited=null
+debited=100
+balance=100
+
+userEmail=jayanth@gmail.com
+date=15/11/21 5:16 PM
+description=credited from accountno:120206818415868
+credited=100
+debited=null
+balance=500
+
+userEmail=sampath@gmail.com
+date=6/12/21 10:10 AM
+description=self bank withdrawl
+credited=null
+debited=100
+balance=200
+
+userEmail=sampath@gmail.com
+date=6/12/21 10:10 AM
+description=self bank deposit
+credited=200
+debited=null
+balance=400
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:42 pm
+description=self bank deposit
+credited=300
+debited=null
+balance=400
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:43 pm
+description=self bank withdrawl
+credited=null
+debited=100
+balance=300
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:43 pm
+description=self bank withdrawl
+credited=null
+debited=100
+balance=200
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:43 pm
+description=self bank deposit
+credited=500
+debited=null
+balance=700
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:44 pm
+description=debited to accountno:120203168187525
+credited=null
+debited=100
+balance=600
+
+userEmail=saimaturi@gmail.com
+date=09/12/21, 9:44 pm
+description=credited from accountno:120203754757602
+credited=100
+debited=null
+balance=400
+
+userEmail=eswar@gmail.com
+date=09/12/21, 9:44 pm
+description=debited to accountno:120203168187525
+credited=null
+debited=100
+balance=500
+
+userEmail=saimaturi@gmail.com
+date=09/12/21, 9:44 pm
+description=credited from accountno:120203754757602
+credited=100
+debited=null
+balance=500
+
+userEmail=jayasampath111@gmail.com
+date=09-12-2021 09:58:57
+description=self bank deposit
+credited=1500
+debited=null
+balance=1500
+
