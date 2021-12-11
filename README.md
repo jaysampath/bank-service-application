@@ -24,7 +24,7 @@ Put the following transactions
 
 Note: 
 
-You should not use any database. You have to use only files for storing the information like balance, transactions etc. The type of file is your choice, it can be a text file , json file etc. 
+You should not use any database. You have to use only files for storing the information like customer details, transactions etc. The type of file is your choice, it can be a text file , json file etc. 
 
 You have to use only the console for inputting and outputting the info either it could be Eclipse or IntelliJ. No frontend, API’s etc. Only the console 
 
